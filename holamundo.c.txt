@@ -1,0 +1,5 @@
+int main()
+{
+   cout << "¡Hola, mundo!" << std::endl;
+   return 0;
+}
